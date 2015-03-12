@@ -1,0 +1,24 @@
+[
+  {
+    "files": [
+      "src/a.js"
+    ],
+    "id": "BK8Xz65aua",
+    "key": "ONE",
+    "new": false,
+    "timestamp": "2015-03-12T19:08:10.369Z",
+    "value": "",
+    "variables": []
+  },
+  {
+    "files": [
+      "src/a.js"
+    ],
+    "id": "G58yzoLjur",
+    "key": "TWO",
+    "new": false,
+    "timestamp": "2015-03-12T19:06:17.243Z",
+    "value": "",
+    "variables": []
+  }
+]

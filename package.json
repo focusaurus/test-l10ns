@@ -1,0 +1,14 @@
+{
+  "name": "test-l10ns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Lyons <pete@peterlyons.com> (http://peterlyons.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "l10ns": "2.0.17"
+  }
+}
