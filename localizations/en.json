@@ -1,7 +1,8 @@
 [
   {
     "files": [
-      "src/a.js"
+      "src/a.js",
+      "src/b.js"
     ],
     "id": "BK8Xz65aua",
     "key": "ONE",
@@ -12,7 +13,8 @@
   },
   {
     "files": [
-      "src/a.js"
+      "src/a.js",
+      "src/b.js"
     ],
     "id": "G58yzoLjur",
     "key": "TWO",
